@@ -23,6 +23,14 @@ div.escudoestadio{
    
 }
 
+/* div.escudoestadio2{
+    display: flex!important;
+    flex-direction: row;
+    margin-block: px;
+    height:px;
+   
+} */
+
 
 div.margenestop{
     margin: 0 auto;
@@ -108,4 +116,34 @@ div.final{
 
 .estilonaranja{
     color: orangered;
+}
+
+.izquitaquilla{
+    float: left;
+    /* text-align: center; */
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.partidos{
+    margin-left: 400px;
+}
+
+.izquitaquilla2{
+    float: left;
+    /* text-align: center; */
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.boton{
+    position: relative;
+    /* margin-top: 4%; */
+    padding:1em 1.5em;
+    background-color: black;
+    color: orangered;
+    font-size: large;
+
 }
